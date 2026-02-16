@@ -1,0 +1,11 @@
+{
+  "name": "Dockge",
+  "description": "Docker compose management and monitoring interface",
+  "language": "TypeScript",
+  "framework": "Vue 3",
+  "stack": {
+    "services": ["dockge"],
+    "backend": "express",
+    "containerization": "docker-compose"
+  }
+}
